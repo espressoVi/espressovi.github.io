@@ -32,8 +32,8 @@ h1, h2, h3, h4, h5, h6 {
   display: none;
   position: fixed;
   padding: 10px;
-  width: 50%;
-  left: 30%;
+  width: 70%;
+  left: 25%;
   top: 25%;
   background: #FFF;
   z-index: 30;
@@ -123,7 +123,7 @@ label {
 
 .event-banner-wrapper {
 	position: fixed;
-    width: 25%;
+    width: 33.333333%;
     height: 100%;	
     padding: 20px;
 	background: url(../images/ev.jpg);
