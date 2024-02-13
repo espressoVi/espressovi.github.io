@@ -20,7 +20,7 @@ img {
 
 .propic {
     border-radius: 10px;
-	margin: 2px;
+    margin: 5px;
 }
 
 hr {
@@ -38,7 +38,7 @@ h1 {
 h2 {
     font-size: 1.3em;
     background: #fcfcfc;
-    padding: 10px;
+    padding: 6px;
 }
 
 h3 {
@@ -62,22 +62,21 @@ a {
 }
 
 li {
-    padding: 7px 0;
+    padding: 6px 0;
 }
 
 .dl-share .btn {
-    min-width: 120px;
+    min-width: 150px;
 }
 
 .signature {
     font-family: 'Kristi', cursive;
     color: #3e3f40;
     font-size: 2.2em;
-    
 }
 
 .social {
-    margin-right: 7px;
+    margin-right: 10px;
 }
 
 .btn .fa {
@@ -92,6 +91,16 @@ li {
 
 .sub {
     margin-bottom: 15px;
+}
+.publication-title{
+    font-size:1.5rem;
+    color: #333;
+    font-family: monospace;
+    letter-spacing: .17em;
+}
+.journal{
+	font-size:1.7rem;
+	color: #555;
 }
 
 .award {
