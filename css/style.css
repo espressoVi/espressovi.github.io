@@ -90,21 +90,21 @@ li {
 }
 
 .sub {
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 .publication-title{
     font-size:1.5rem;
     color: #333;
-    font-family: monospace;
     letter-spacing: .17em;
 }
 .journal{
 	font-size:1.7rem;
 	color: #555;
+	padding-top: -9px;
 }
 
 .award {
-    padding-top: 20px;
+    padding-top: 10px;
 }
 
 blockquote {
