@@ -1,0 +1,21 @@
+.nav {
+  height: 50px;
+  width: 100%;
+  position: relative;
+}
+.nav > .nav-links {
+  display: inline;
+  float: right;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.nav > .nav-links > a {
+  display: inline-block;
+  padding: 0px 10px 0px 10px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav > .nav-links > a:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+}
